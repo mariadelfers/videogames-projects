@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taller_unity.CSharp.Plugins", "Taller_unity.CSharp.Plugins.csproj", "{D14D79DF-23CD-BA98-A409-164C9FB994AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taller_unity.CSharp", "Taller_unity.CSharp.csproj", "{908E8553-2273-8BFF-DCE3-A19E90F41BD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taller_unity.CSharp.Editor", "Taller_unity.CSharp.Editor.csproj", "{556F12D8-0984-4080-2869-5153BEBAB51A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D14D79DF-23CD-BA98-A409-164C9FB994AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14D79DF-23CD-BA98-A409-164C9FB994AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14D79DF-23CD-BA98-A409-164C9FB994AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14D79DF-23CD-BA98-A409-164C9FB994AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{908E8553-2273-8BFF-DCE3-A19E90F41BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{908E8553-2273-8BFF-DCE3-A19E90F41BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{908E8553-2273-8BFF-DCE3-A19E90F41BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{908E8553-2273-8BFF-DCE3-A19E90F41BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556F12D8-0984-4080-2869-5153BEBAB51A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556F12D8-0984-4080-2869-5153BEBAB51A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556F12D8-0984-4080-2869-5153BEBAB51A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556F12D8-0984-4080-2869-5153BEBAB51A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
