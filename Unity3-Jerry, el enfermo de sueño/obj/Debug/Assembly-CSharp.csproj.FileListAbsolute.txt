@@ -1,0 +1,102 @@
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\obj\Debug\Assembly-CSharp.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\obj\Debug\Assembly-CSharp.dll
+C:\Users\Joe B Coxca\Desktop\UnityALv\Final (3)\Final\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\obj\Debug\Assembly-CSharp.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Fer Enriquez'\Desktop\V.Juegos\Final2\Temp\bin\Debug\UnityEngine.HoloLens.xml
